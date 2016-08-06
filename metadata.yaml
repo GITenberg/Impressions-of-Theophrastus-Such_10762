@@ -1,0 +1,39 @@
+_repo: Impressions-of-Theophrastus-Such_10762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Marian
+    - Lewes, Marian Evans
+    - Lewes, M. E. (Marian Evans)
+    - Cross, Mary Ann
+    - Cross, Marian Evans
+    - Evans, Mary Anne
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: Published in 1879, this is Eliot's last completed work, and perhaps her
+  most underrated. It consists of a series of essays told by a nameless English bachelor.
+  Though critics harshly judged the work as ponderous and moralizing" when it was
+  published, today's readers will recognize Eliot's keen intelligence, sharp wit,
+  and intriguing insights in such essays as A Too Deferential Man," A Political Molecule,"
+  and Only Temper."
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character sketches'
+- !lcc 'PR'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Impressions of Theophrastus Such
+url: http://www.gutenberg.org/ebooks/10762
