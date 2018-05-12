@@ -1,5 +1,8 @@
 _repo: Impressions-of-Theophrastus-Such_10762
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eliot, George
@@ -21,6 +24,8 @@ description: Published in 1879, this is Eliot's last completed work, and perhaps
   published, today's readers will recognize Eliot's keen intelligence, sharp wit,
   and intriguing insights in such essays as A Too Deferential Man," A Political Molecule,"
   and Only Temper."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10762#Impressions-of-Theophrastus-Such
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
